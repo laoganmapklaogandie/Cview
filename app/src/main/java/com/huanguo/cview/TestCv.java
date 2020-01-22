@@ -44,6 +44,8 @@ public class TestCv extends AppCompatActivity {
     private Handler mChildHandler;
     private CameraManager mCameraManager;
 
+    //github  本地第一次修改
+
 
     String mCurrentCameraId;
     private CameraDevice.StateCallback mCameraDeviceStateCallback;
